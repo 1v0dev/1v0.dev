@@ -1,11 +1,10 @@
 ---
 title: "About"
 date: 2019-10-16
-draft: false
 menu: main
 ---
 
-## 1v0
+## 1\\/0
 
 The purpose of this blog is to share my personal projects and write about IT related things.
 
