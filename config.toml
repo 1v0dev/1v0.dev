@@ -1,20 +1,4 @@
 baseURL = "http://1v0.dev/"
 languageCode = "en-us"
-title = "1v0"
-theme = "tale"
-
-sectionPagesMenu = "main"
-
-[menu]
-    [[menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        title = "Posts"
-        url = "/posts/"
-        weight = 1
-    [[menu.main]]
-        identifier = "about"
-        name = "About"
-        title = "About"
-        url = "/about/"
-        weight = 2
+title = "1\\/0"
+theme = "paper"
