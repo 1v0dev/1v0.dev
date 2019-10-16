@@ -4,31 +4,21 @@ date: 2019-10-16
 menu: main
 ---
 
-## 1\\/0
+### 1\\/0
 
-The purpose of this blog is to share my personal projects and write about IT related things.
+Welcome to my personal blog. It is a space to share insights and knowledge from work. It also servers
+as a home to personal projects.
 
-## Ivo Penkov
+### Ivo Penkov
 
-I work in IT since 2007 building everything from websites to enterprise systems
+I work in IT since 2007 building everything from websites to enterprise systems.  
+Check out my [CV]({{< ref "/cv" >}}) or [GitHub](https://github.com/1v0dev)  
+Contacts [LinkedIn](https://www.linkedin.com/in/ivo-penkov-63143740/)
 
 *Occupation*: Java Tech Lead  
 *Want to be*: Solutions Architect
 
-*Certification*  
-
-- Oracle Certified Professional, Java SE 8 Programmer  
-
-*Skills*  
-
-- Java: JDK 13, Spring, Hibernate, Maven, Gradle, Checkstyle, Swagger, JUnit  
-- SQL: MySQL, PostgreSQL, Oracle DB, Microsoft SQL Server  
-- Web: REST, HTML, CSS, JavaScript  
-- Cloud: Azure  
-- OS: Windows, Linux (debian, ubuntu, raspbian, arch)  
-- Tools: Jira, GitHub, BitBucket, Jenkins, SonarQube  
-
-*Doing*  
+*Currently Doing*  
 
 - study Software Architecture  
 - study python for scripting/task automation/data science  
