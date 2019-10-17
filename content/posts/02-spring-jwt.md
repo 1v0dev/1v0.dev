@@ -82,9 +82,7 @@ public class AzureUserAuthenticationConverter extends DefaultUserAuthenticationC
     private UserService userService;
 
     @Autowired
-    public AzureUserAuthenticationConverter(UserService userService,
-                                            UserGraphApi userGraphApi,
-                                            ModelMapper modelMapper) {
+    public AzureUserAuthenticationConverter(UserService userService) {
         this.userService = userService;
     }
 
