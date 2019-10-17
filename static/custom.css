@@ -1,0 +1,17 @@
+.first-entry img {
+    position: absolute;
+    width: 50px;
+}
+
+.first-entry h2 {
+    text-indent: 60px;
+}
+
+.post-entry img {
+    position: absolute;
+    width: 30px;
+}
+
+.post-entry h2 {
+    text-indent: 35px;
+}

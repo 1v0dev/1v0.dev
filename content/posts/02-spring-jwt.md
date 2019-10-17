@@ -3,6 +3,7 @@ title: "JWT token based authentication with Spring Security"
 date: 2019-10-17T10:28:30+03:00
 summary: "Learn how to setup JWT token authentication with Spring"
 description: "Learn how to setup JWT token authentication with Spring"
+icon: /icons/icons8-console-50.png
 keywords:
   - Spring
   - Spring Security
