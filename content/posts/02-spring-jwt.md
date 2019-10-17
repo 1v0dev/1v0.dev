@@ -163,10 +163,9 @@ Configure Spring Security to require authentication:
 Configure the Token Store and plug in our custom classes:
 
 {{< highlight java >}}
-
-/** holds the web address where you can access the public keys to verify the token
-*/  this address is for Azure, replace it with yours
-private final String jwkUrl = "https://login.microsoftonline.com/{tenant_id}/discovery/v2.0/keys";
+    /** holds the web address where you can access the public keys to verify the token
+        this address is for Azure, replace it with yours */
+    private final String jwkUrl = "https://login.microsoftonline.com/{tenant_id}/discovery/v2.0/keys";
 
     @Override
     public void configure(ResourceServerSecurityConfigurer config) {
@@ -194,7 +193,6 @@ private final String jwkUrl = "https://login.microsoftonline.com/{tenant_id}/dis
         return new JwkTokenStore(jwkUrl, tokenConverter, claimsVerifier);
     }
 {{< / highlight >}}
-
 
 And this is it, you should be able to authenticate with a valid JWT token.  
 Thank you for reading.
