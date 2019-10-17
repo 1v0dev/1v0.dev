@@ -79,10 +79,10 @@ import org.springframework.stereotype.Component;
 @Component
 public class AzureUserAuthenticationConverter extends DefaultUserAuthenticationConverter {
 
-    private UserTtiService userService;
+    private UserService userService;
 
     @Autowired
-    public AzureUserAuthenticationConverter(UserTtiService userService,
+    public AzureUserAuthenticationConverter(UserService userService,
                                             UserGraphApi userGraphApi,
                                             ModelMapper modelMapper) {
         this.userService = userService;
