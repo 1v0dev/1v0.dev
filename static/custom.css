@@ -21,3 +21,29 @@ img[alt=about_icon] {
     width: 35px;
     margin-right: 5px;
 }
+
+@media (min-width: 1100px) {
+    .table-of-contents {
+        position: fixed;
+        top: 108px;
+        left: 2%;
+        max-width: calc((100vw - var(--main-width) - var(--gap) * 2 - 2%) / 2)
+    }
+}
+
+@media (min-width: 1500px) {
+    .table-of-contents {
+        position: fixed;
+        top: 108px;
+        left: 3%;
+        max-width: calc((100vw - var(--main-width) - var(--gap) * 2 - 3%) / 2)
+    }
+}
+
+.table-of-contents ul {
+    list-style-type: none;
+}
+
+.table-of-contents span {
+    font-weight: bold;
+}
