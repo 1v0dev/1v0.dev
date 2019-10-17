@@ -18,13 +18,13 @@ Contacts [LinkedIn](https://www.linkedin.com/in/ivo-penkov-63143740/)
 *Occupation*: Java Tech Lead  
 *Want to be*: Solutions Architect
 
-*Currently Doing*  
+![about_icon](/icons/icons8-play-property-50.png)*Currently Doing*  
 
 - study Software Architecture  
 - study python for scripting/task automation/data science  
 - automate my home with Home Assistant  
 
-*To-Do*  
+![about_icon](/icons/icons8-timesheet-50.png)*To-Do*  
 
 - learn GO programming language  
 - study more about Statistics  

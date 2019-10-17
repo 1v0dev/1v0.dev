@@ -1,0 +1,23 @@
+.post-header img, .first-entry img {
+    position: absolute;
+    width: 50px;
+}
+
+.post-header h1, .first-entry h2 {
+    text-indent: 60px;
+}
+
+.post-entry img {
+    position: absolute;
+    width: 30px;
+}
+
+.post-entry h2 {
+    text-indent: 35px;
+}
+
+img[alt=about_icon] {
+    float:left;
+    width: 35px;
+    margin-right: 5px;
+}
