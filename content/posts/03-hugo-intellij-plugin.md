@@ -7,7 +7,6 @@ icon: /icons/icons8-template-50.png
 tags:
   - Intellij
   - Hugo
-draft: true
 ---
 
 I like to do all my development in Intellij IDEA if possible. It has some great functionaries. 
