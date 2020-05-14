@@ -14,8 +14,8 @@ So while developing this site I found out that there was no plugin for [Hugo](ht
 static website generator. While Hugo's commands are pretty simple and you can use the integrated terminal 
 to run them I decided to build one myself. It seemed like a great opportunity to learn more about Intellij plugin
 development.  
-It took about 4 days to build the first version. Mainly because the documentation is kind of brief and I struggled
-with some of the details.  
+It took about 4 days to build the first version. Mainly because the documentation is kind of brief, and I struggled
+with some details.  
 So here it is:  
 [Hugo Integration](https://plugins.jetbrains.com/plugin/13215-hugo-integration)
   
