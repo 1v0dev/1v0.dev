@@ -1,8 +1,8 @@
 ---
 title: "Spring Boot: ignore deserialization errors with Redis cache"
 date: 2020-05-14T09:54:29+03:00
-summary: "ignore deserialization errors with Redis cache in Spring"
-description: "ignore deserialization errors with Redis cache in Spring"
+summary: "Ignore deserialization errors with Redis cache in Spring"
+description: "Ignore deserialization errors with Redis cache in Spring"
 icon: /icons/icons8-source-code-50.png
 tags:
   - Spring

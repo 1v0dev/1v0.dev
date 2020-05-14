@@ -1,8 +1,8 @@
 ---
 title: "Spring Boot: set separate TTL for each Redis cache"
 date: 2020-05-14T09:54:29+03:00
-summary: "set separate Time-to-live for each Redis cache in Spring"
-description: "set separate Time-to-live for each Redis cache in Spring"
+summary: "Set separate Time-to-live for each Redis cache in Spring"
+description: "Set separate Time-to-live for each Redis cache in Spring"
 icon: /icons/icons8-source-code-50.png
 tags:
   - Spring
