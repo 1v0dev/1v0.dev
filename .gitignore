@@ -1,0 +1,5 @@
+.idea
+*.iml
+public
+.hugo_build.lock
+resources/_gen
