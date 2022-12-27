@@ -1,6 +1,7 @@
 ---
 title: "Cloud Native Patterns - RPC"
 date: 2022-11-30
+cover: /posts/images/cn-pattern-rpc.png
 tags:
 - Cloud Native
 - Pattern
@@ -14,8 +15,6 @@ in a remote application the same way they make local calls.
 RPC is not new. Developers have been using it for a log time, but the old systems and standards are heavy and limited.
 The recent rise in popularity of distributed software lead to rediscovery of the RPC pattern and development of new 
 frameworks.
-
-![Generic RPC diagram](/posts/images/cn-pattern-rpc.png) 
 
 # RPC vs REST
 REST is similar to RPC in the general request-response structure of the communication. But there are some key

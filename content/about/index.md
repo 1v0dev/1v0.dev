@@ -1,13 +1,7 @@
 ---
-title: "About"
-date: 2022-10-16
+title: "About Me"
 menu: main
 ---
-
-# 1\\/0
-
-Welcome to my personal blog. It is a space to share insights and knowledge from work. It also servers
-as a home to my personal projects.
 
 # Ivo Penkov
 I work in IT since 2007 building everything from websites to enterprise systems.  
