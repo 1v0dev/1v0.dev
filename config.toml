@@ -31,3 +31,10 @@ keywords = ""
 [languages.en.params.logo]
 logoText = "1v0.dev"
 logoHomeLink = "/"
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "archive"
+name = "All Posts"
+url = "/archive"
+weight = 50

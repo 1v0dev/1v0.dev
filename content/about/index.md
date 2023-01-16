@@ -1,6 +1,8 @@
 ---
 title: "About Me"
-menu: main
+menu:
+    main:
+        weight: 100
 ---
 
 # Ivo Penkov
