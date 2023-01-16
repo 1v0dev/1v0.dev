@@ -14,6 +14,10 @@ showMenuItems = 4
 # Show reading time in minutes for posts
 showReadingTime = true
 
+[params.mermaid]
+theme = "neutral"
+align = "center"
+
 # Show full page content in RSS feed items
 #(default is Description or Summary metadata in the front matter)
 # rssFullText = true
