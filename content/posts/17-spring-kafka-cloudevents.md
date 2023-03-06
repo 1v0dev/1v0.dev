@@ -20,6 +20,10 @@ Here you can find the full source code of the sample project https://github.com/
 
 <!--more-->
 
+For a version of this project using Spring Cloud Stream and it's Kafka binder check [here](/posts/19-spring-stream-kafka-cloudevents/)
+
+<!--more-->
+
 # Initial Configuration
 
 ## Running Kafka
