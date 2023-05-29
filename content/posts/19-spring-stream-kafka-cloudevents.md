@@ -13,8 +13,6 @@ keywords:
 - Kafka
 ---
 
-# Intro
-
 This is a sample project on how to send [CloudEvents](https://cloudevents.io/) with [Spring Cloud Stream](https://docs.spring.io/spring-cloud-stream/docs/current/reference/html/) and [Apache Kafka](https://kafka.apache.org/)
 
 Here you can find the full source code of the sample project https://github.com/1v0dev/spring-stream-kafka-cloudevents
@@ -22,6 +20,8 @@ Here you can find the full source code of the sample project https://github.com/
 <!--more-->
 
 For a version of this project using pure Spring Boot and Spring Kafka integration check [here](/posts/17-spring-kafka-cloudevents/)
+
+> This post is part of a series about using CloudEvents with different frameworks and languages. You can find all posts [here](/tags/cloudevents/)
 
 # Initial Configuration
 

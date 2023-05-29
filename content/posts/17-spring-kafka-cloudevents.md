@@ -12,8 +12,6 @@ keywords:
 - Kafka
 ---
 
-# Intro
-
 This is a brief guide on how to send [CloudEvents](https://cloudevents.io/) with [Spring Boot](https://spring.io/projects/spring-boot) and [Apache Kafka](https://kafka.apache.org/)
 
 Here you can find the full source code of the sample project https://github.com/1v0dev/spring-kafka-cloudevents
@@ -21,6 +19,8 @@ Here you can find the full source code of the sample project https://github.com/
 <!--more-->
 
 For a version of this project using Spring Cloud Stream and it's Kafka binder check [here](/posts/19-spring-stream-kafka-cloudevents/)
+
+> This post is part of a series about using CloudEvents with different frameworks and languages. You can find all posts [here](/tags/cloudevents/)
 
 <!--more-->
 
