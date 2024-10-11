@@ -2,3 +2,26 @@
 {{ if (.Params.mermaid) }}
 {{ partial "mermaid.html" }}
 {{ end }}
+
+{{ if eq .Type "posts" }}
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "{{ .Params.title }}",
+        "datePublished": "{{ .Params.date }}",
+        "author": {
+            "@type": "Person",
+            "name": "1v0"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "1v0.dev"
+        },
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ .Permalink }}"
+        }
+    }
+</script>
+{{ end }}
