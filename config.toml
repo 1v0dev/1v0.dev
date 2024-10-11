@@ -25,6 +25,7 @@ align = "center"
 [languages]
 [languages.en]
 title = "1v0.dev"
+[languages.en.params]
 subtitle = ""
 keywords = ""
 
