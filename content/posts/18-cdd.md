@@ -1,7 +1,7 @@
 ---
 title: "What is Contract-Driven Development"
 date: 2023-02-28T09:42:17+02:00
-cover: /posts/images/18-cdd-cover.jpeg
+cover: /posts/images/18-cdd-cover.jpg
 tags:
 - Contract-Driven
 - Methodology
