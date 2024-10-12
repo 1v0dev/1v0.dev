@@ -3,6 +3,8 @@
 {{ partial "mermaid.html" }}
 {{ end }}
 
+Type {{ .File.Path  }}
+
 {{ if eq .Type "posts" }}
 <script type="application/ld+json">
     {
@@ -13,12 +15,36 @@
         "author": {
             "@type": "Person",
             "name": "1v0",
-            "url": "1v0.dev"
+            "url": "https://1v0.dev"
         },
+            {{ with .Params.cover }}
+            "image": {
+                "@type": "ImageObject",
+                "url": "{{ . | absURL }}"
+            },
+            {{ end }}
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "{{ .Permalink }}"
         }
+    }
+</script>
+{{ end }}
+
+{{ if eq .File.Path "about\\index.md" }}
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ivo Penkov",
+        "jobTitle": "Solutions Architect",
+        "image": {{ .Params.image | absURL }},
+        "url": "https://1v0.dev",
+        "sameAs": [
+            "https://linkedin.com/in/ivo-penkov-63143740/",
+            "https://github.com/1v0dev"
+        ],
+        "email": "1v0dev@protonmail.com"
     }
 </script>
 {{ end }}
