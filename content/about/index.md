@@ -20,9 +20,3 @@ I work in IT since 2007 building everything from websites to enterprise systems.
 
 ## Occupation
 Solutions Architect
-
-## Currently Doing  
-
-- read about Software Architecture metrics
-- study AWS Serverless solutions 
-- automate my home with Home Assistant
