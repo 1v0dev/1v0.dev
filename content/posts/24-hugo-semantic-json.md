@@ -43,7 +43,7 @@ There is a lot of supported types and properties, you can check them all at http
 # How to add JSON-LD to Hugo
 
 So this blog is created with Hugo static site generator. Since it's very simple blog it's best to add
-the metadata manually. There are some Hugo plugins that does it for you, but they seem to complex for my purposes.
+the metadata manually. There are some Hugo plugins that does it for you, but they seem too complex for my purposes.
 
 ## Step 1: find how to change the `<head>` element
 
