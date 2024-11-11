@@ -39,3 +39,9 @@ identifier = "archive"
 name = "All Posts"
 url = "/archive"
 weight = 50
+
+[[languages.en.menu.main]]
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://vmst.io/@1v0"
+weight = 60
