@@ -121,7 +121,7 @@ In `application.properties` add
 spring.cloud.function.definition=kafkaSender
 spring.cloud.stream.bindings.kafkaSender-out-0.destination=main-topic
 ```
-The name of the second property comes from [Cloud Stream auto bindings](spring.cloud.stream.bindings.kafkaReceiver-in-0.destination=main-topic).
+The name of the second property comes from [Cloud Stream auto bindings](https://docs.spring.io/spring-cloud-stream/reference/spring-cloud-stream/binding-names.html).
 
 Spring will handle most of the rest.
 
